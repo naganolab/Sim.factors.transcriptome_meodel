@@ -1,4 +1,4 @@
-# Sim.factors.transcriptome_meodel
+# Sim.factors.transcriptome_model
 
 Code for creating datasets/figures in paper “Simulation study of factors affecting accuracy of the transcriptome model under complex environments”
 
